@@ -2,6 +2,7 @@
 This is a simple Python script that generates a QR code from user-provided text or URL and saves it as an image file.
 
 How It Works
+
 The script asks the user to input any text or URL.
 
 It then prompts the user to provide a name for the image file (make sure to include .png as the extension).
